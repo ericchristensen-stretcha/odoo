@@ -1,2 +1,2 @@
 # odoo
-Odoo Related developments
+Odoo related developments
